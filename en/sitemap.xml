@@ -3,47 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://inertry.github.io/page/about-me/</loc>
-    <lastmod>2019-03-21T13:18:45+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/page/about-me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/page/about-me/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://inertry.github.io/page/about-sc/</loc>
+    <loc>https://inertry.github.io/page/synapbook/</loc>
     <lastmod>2019-03-20T13:18:45+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/page/about-sc/"
+                href="https://inertry.github.io/kr/page/synapbook/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/page/about-sc/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://inertry.github.io/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/"
+                href="https://inertry.github.io/page/synapbook/"
                 />
   </url>
   
@@ -78,40 +48,8 @@
   </url>
   
   <url>
-    <loc>https://inertry.github.io/code/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/code/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://inertry.github.io/author/felixchoi/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/author/felixchoi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/author/felixchoi/"
-                />
-  </url>
-  
-  <url>
     <loc>https://inertry.github.io/</loc>
-    <lastmod>2019-03-21T13:18:45+09:00</lastmod>
+    <lastmod>2019-03-20T13:18:45+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -126,56 +64,8 @@
   </url>
   
   <url>
-    <loc>https://inertry.github.io/tags/nodejs/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/tags/nodejs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/tags/nodejs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://inertry.github.io/categories/nodejs/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/categories/nodejs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/categories/nodejs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://inertry.github.io/tags/package/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/tags/package/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/tags/package/"
-                />
-  </url>
-  
-  <url>
     <loc>https://inertry.github.io/page/</loc>
-    <lastmod>2019-03-21T13:18:45+09:00</lastmod>
+    <lastmod>2019-03-20T13:18:45+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -190,14 +80,7 @@
   </url>
   
   <url>
-    <loc>https://inertry.github.io/categories/recommendation/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://inertry.github.io/tags/</loc>
-    <lastmod>2019-03-19T00:40:03+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
