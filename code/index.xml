@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on Inertry</title>
+    <link>https://inertry.github.io/code/</link>
+    <description>Recent content in Codes on Inertry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2019 00:40:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://inertry.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recommendation - PNPM, the fastest NPM replacement system</title>
+      <link>https://inertry.github.io/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/</link>
+      <pubDate>Tue, 19 Mar 2019 00:40:03 +0900</pubDate>
+      
+      <guid>https://inertry.github.io/code/%EA%B0%80%EC%9E%A5%EB%B9%A0%EB%A5%B8-npm%EB%8C%80%EC%B2%B4%EC%A0%9C-pnpm/</guid>
+      <description>It&amp;rsquo;s the fastest NPM ever. It&amp;rsquo;s been a while since I found out, but I haven&amp;rsquo;t really applied it.
+Key features include:
+ Speed - 3x faster than NPM. It&amp;rsquo;s faster than Yarn. Saving Capacity - Even with multiple projects, all node_modules&amp;rsquo; actual files are shared. Module Added Speed - Faster when adding individual module dependencies to a project. I love it. Comfort - Just replace npm with pnpm for use!</description>
+    </item>
+    
+  </channel>
+</rss>

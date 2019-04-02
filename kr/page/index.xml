@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 이너트리 블로그입니다.</title>
+    <link>https://inertry.github.io/kr/page/</link>
+    <description>Recent content in Pages on 이너트리 블로그입니다.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Mar 2019 13:18:45 +0900</lastBuildDate>
+    
+	<atom:link href="https://inertry.github.io/kr/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://inertry.github.io/kr/page/about-me/</link>
+      <pubDate>Thu, 21 Mar 2019 13:18:45 +0900</pubDate>
+      
+      <guid>https://inertry.github.io/kr/page/about-me/</guid>
+      <description>이것저것 하는 것 좋아하는 꿈 많은 그리고 나이 든 개발자입니다.
+인생의 모토는 끓임 없이 굴러가는 자전거 같이 살자입니다.
+신기한 것들 재미있는것들 같이 공유해보고 싶습니다. ^-^
+주요관심분야 Golang 2019/02월에 뒤늦게 개발에 접목해보고 푹 빠졌습니다. 이제 서버는 모두 Golang으로!! GOGOGO
+NodeJS 이런 허술한 언어는 난 인정할 수 없어! 라고 큰소리쳐놓고 회사일 때문에 접하고 나서 벌써 근 3년 동안 그 유연함과 단순함에 푹 빠져 지냈습니다. 정말 쉽죠!
+React Augular1, Angular2, VueJS 각각 간단한 프로젝트 한 개씩 진행해보고 최종적으로 React로 안착했습니다.</description>
+    </item>
+    
+    <item>
+      <title>SharpenCommander</title>
+      <link>https://inertry.github.io/kr/page/about-sc/</link>
+      <pubDate>Wed, 20 Mar 2019 13:18:45 +0900</pubDate>
+      
+      <guid>https://inertry.github.io/kr/page/about-sc/</guid>
+      <description>개발자 여러분의 Terminal 사용환경 개선 오픈소스 프로젝트!
+ 편리한 폴더이동 강력하고 편리한 Git Commit 편리한 다수의 Git 프로젝트 관리 강화된 Find, Grep 사용(알파) 불편한 Submodule 사용 방법 개선(Coming soon)  신세계를 ShapenCommander와 함께 체험하세요!</description>
+    </item>
+    
+  </channel>
+</rss>
