@@ -6,26 +6,45 @@
     <description>Recent content in Synapbook on Inertry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Mar 2018 23:57:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 22:42:20 +0900</lastBuildDate>
     
 	<atom:link href="https://inertry.github.io/tags/synapbook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>V1.2.0 Popup memo released like Windows Sticky Notes</title>
+      <link>https://inertry.github.io/article/2018-03-19-v1.2.0-popup-memo-released-like-windows-sticky-notes/</link>
+      <pubDate>Tue, 19 Mar 2019 22:42:20 +0900</pubDate>
+      
+      <guid>https://inertry.github.io/article/2018-03-19-v1.2.0-popup-memo-released-like-windows-sticky-notes/</guid>
+      <description>In SynapBook V1.2 You can edit your notes in a separate window like Windows Sticky Notes app(you can use SynapBook as Sticky Notes cloud version).
+Additional Title mode which shows only titlebar is available as well. Popup note feature makes it easy to view and manage your notes. ;-)</description>
+    </item>
+    
+    <item>
+      <title>Google Keep vs SynapBook - Which Is King of Simple Note Taking?</title>
+      <link>https://inertry.github.io/article/2018-04-01-google-keep-vs-synapbook-which-is-king-of-simple-note-taking/</link>
+      <pubDate>Sun, 01 Apr 2018 03:49:10 +0900</pubDate>
+      
+      <guid>https://inertry.github.io/article/2018-04-01-google-keep-vs-synapbook-which-is-king-of-simple-note-taking/</guid>
+      <description>Common point  Synchronize data through the server so you can accesss the same memo from anywhere. It supports tags in memo, easy to sort and search for keywords. Image insertion support. Archiving feature allows you to archive what you need to keep for later viewing.  Google Keep Pros.  Web-based access to web pages is available anywhere It is simple and neat. Voice memo can be memorized.  https://keep.</description>
+    </item>
+    
+    <item>
       <title>2019 04 02 Comparison of Evernote and Synapbook</title>
-      <link>https://inertry.github.io/article/2019-04-02-comparison-of-evernote-and-synapbook/</link>
+      <link>https://inertry.github.io/article/2018-03-03-comparison-of-evernote-and-synapbook/</link>
       <pubDate>Sat, 03 Mar 2018 23:57:00 +0900</pubDate>
       
-      <guid>https://inertry.github.io/article/2019-04-02-comparison-of-evernote-and-synapbook/</guid>
+      <guid>https://inertry.github.io/article/2018-03-03-comparison-of-evernote-and-synapbook/</guid>
       <description>Common features  Cloud Synchronization enables you to access memo contents created by PC and mobile phone anywhere Data is stored locally so that it can be accessed even during fast search and network disconnection Supports sorting and tagging of notes Support for inserting images into notes  Strengths of Evernote versus Synapbook  iOS support Extremely powerful Web scrap functionality Content encryption support It is a stable application that has a long history and many users use it.</description>
     </item>
     
     <item>
       <title>Official Synapbook V1.0 released</title>
-      <link>https://inertry.github.io/article/2019-04-02-official-synapbook-v1.0-released/</link>
-      <pubDate>Wed, 14 Feb 2018 20:13:06 +0900</pubDate>
+      <link>https://inertry.github.io/article/2018-02-18-official-synapbook-v1.0-released/</link>
+      <pubDate>Wed, 14 Feb 2018 04:15:00 +0900</pubDate>
       
-      <guid>https://inertry.github.io/article/2019-04-02-official-synapbook-v1.0-released/</guid>
+      <guid>https://inertry.github.io/article/2018-02-18-official-synapbook-v1.0-released/</guid>
       <description>Finally upgraded the version to V1.0. We think it would be 8.0 or more so if we update the actual version with hundreds of releases, but we have not been able to upgrade the version since we have been operating in semi-private mode for about 2 years, and we have been beta-tagged like Google because of concerns about unstable There was also intention to operate. ;-)
 Now that we have switched to full public release because it&amp;rsquo;s time, we have revised the version to V1.</description>
     </item>
