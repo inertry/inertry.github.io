@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Inertry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 14 Feb 2018 20:13:06 +0900</lastBuildDate>
     
 	<atom:link href="https://inertry.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Release</title>
+      <link>https://inertry.github.io/tags/release/</link>
+      <pubDate>Wed, 14 Feb 2018 20:13:06 +0900</pubDate>
+      
+      <guid>https://inertry.github.io/tags/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synapbook</title>
+      <link>https://inertry.github.io/tags/synapbook/</link>
+      <pubDate>Wed, 14 Feb 2018 20:13:06 +0900</pubDate>
+      
+      <guid>https://inertry.github.io/tags/synapbook/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

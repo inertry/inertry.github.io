@@ -91,7 +91,32 @@
   </url>
   
   <url>
+    <loc>https://inertry.github.io/tags/release/</loc>
+    <lastmod>2018-02-14T20:13:06+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inertry.github.io/categories/release/</loc>
+    <lastmod>2018-02-14T20:13:06+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inertry.github.io/tags/synapbook/</loc>
+    <lastmod>2018-02-14T20:13:06+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://inertry.github.io/categories/synapbook/</loc>
+    <lastmod>2018-02-14T20:13:06+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://inertry.github.io/tags/</loc>
+    <lastmod>2018-02-14T20:13:06+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

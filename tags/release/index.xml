@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Release on Inertry</title>
+    <link>https://inertry.github.io/tags/release/</link>
+    <description>Recent content in Release on Inertry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Feb 2018 20:13:06 +0900</lastBuildDate>
+    
+	<atom:link href="https://inertry.github.io/tags/release/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Official Synapbook V1.0 released</title>
+      <link>https://inertry.github.io/article/2019-04-02-official-synapbook-v1.0-released/</link>
+      <pubDate>Wed, 14 Feb 2018 20:13:06 +0900</pubDate>
+      
+      <guid>https://inertry.github.io/article/2019-04-02-official-synapbook-v1.0-released/</guid>
+      <description>Finally upgraded the version to V1.0. We think it would be 8.0 or more so if we update the actual version with hundreds of releases, but we have not been able to upgrade the version since we have been operating in semi-private mode for about 2 years, and we have been beta-tagged like Google because of concerns about unstable There was also intention to operate. ;-)
+Now that we have switched to full public release because it&amp;rsquo;s time, we have revised the version to V1.</description>
+    </item>
+    
+  </channel>
+</rss>
