@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inertry</title>
-    <link>https://inertry.github.io/</link>
-    <description>Recent content on Inertry</description>
+    <title>Articles on Inertry</title>
+    <link>https://inertry.github.io/article/</link>
+    <description>Recent content in Articles on Inertry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Mar 2019 13:18:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2018 20:13:06 +0900</lastBuildDate>
     
-        <atom:link href="https://inertry.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://inertry.github.io/article/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
