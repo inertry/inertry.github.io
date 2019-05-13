@@ -3,94 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://inertry.github.io/kr/page/synapbook/</loc>
+    <loc>https://blog.inertry.com/kr/page/synapbook/</loc>
     <lastmod>2019-03-20T13:18:45+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/page/synapbook/"
+                href="https://blog.inertry.com/page/synapbook/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/page/synapbook/"
+                href="https://blog.inertry.com/kr/page/synapbook/"
                 />
   </url>
   
   <url>
-    <loc>https://inertry.github.io/kr/author/</loc>
+    <loc>https://blog.inertry.com/kr/author/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/author/"
+                href="https://blog.inertry.com/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/author/"
+                href="https://blog.inertry.com/kr/author/"
                 />
   </url>
   
   <url>
-    <loc>https://inertry.github.io/kr/categories/</loc>
+    <loc>https://blog.inertry.com/kr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/categories/"
+                href="https://blog.inertry.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/categories/"
+                href="https://blog.inertry.com/kr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://inertry.github.io/kr/page/</loc>
-    <lastmod>2019-03-20T13:18:45+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/page/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://inertry.github.io/kr/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://inertry.github.io/kr/</loc>
+    <loc>https://blog.inertry.com/kr/page/</loc>
     <lastmod>2019-03-20T13:18:45+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/"
+                href="https://blog.inertry.com/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/"
+                href="https://blog.inertry.com/kr/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.inertry.com/kr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.inertry.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="https://blog.inertry.com/kr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.inertry.com/kr/</loc>
+    <lastmod>2019-03-20T13:18:45+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.inertry.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="https://blog.inertry.com/kr/"
                 />
   </url>
   

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Inertry</title>
-    <link>https://inertry.github.io/tags/</link>
+    <link>https://blog.inertry.com/tags/</link>
     <description>Recent content in Tags on Inertry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2019 22:42:20 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 22:42:20 +0900</lastBuildDate>
     
-	<atom:link href="https://inertry.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.inertry.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Release</title>
-      <link>https://inertry.github.io/tags/release/</link>
-      <pubDate>Tue, 19 Mar 2019 22:42:20 +0900</pubDate>
+      <link>https://blog.inertry.com/tags/release/</link>
+      <pubDate>Mon, 19 Mar 2018 22:42:20 +0900</pubDate>
       
-      <guid>https://inertry.github.io/tags/release/</guid>
+      <guid>https://blog.inertry.com/tags/release/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synapbook</title>
-      <link>https://inertry.github.io/tags/synapbook/</link>
-      <pubDate>Tue, 19 Mar 2019 22:42:20 +0900</pubDate>
+      <link>https://blog.inertry.com/tags/synapbook/</link>
+      <pubDate>Sun, 01 Apr 2018 03:49:10 +0900</pubDate>
       
-      <guid>https://inertry.github.io/tags/synapbook/</guid>
+      <guid>https://blog.inertry.com/tags/synapbook/</guid>
       <description></description>
     </item>
     

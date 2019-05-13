@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 이너트리 블로그입니다.</title>
-    <link>https://inertry.github.io/kr/page/</link>
+    <link>https://blog.inertry.com/kr/page/</link>
     <description>Recent content in Pages on 이너트리 블로그입니다.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2019 13:18:45 +0900</lastBuildDate>
     
-	<atom:link href="https://inertry.github.io/kr/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.inertry.com/kr/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>시냅북(SynapBook)</title>
-      <link>https://inertry.github.io/kr/page/synapbook/</link>
+      <link>https://blog.inertry.com/kr/page/synapbook/</link>
       <pubDate>Wed, 20 Mar 2019 13:18:45 +0900</pubDate>
       
-      <guid>https://inertry.github.io/kr/page/synapbook/</guid>
+      <guid>https://blog.inertry.com/kr/page/synapbook/</guid>
       <description>트리구조 메모로 체계적이고 편리하게 생각을 정리하세요!
 시냅북은 여러분의 지식을 가장 잘 정리할 수 있는 도구입니다.
  트리구조 메모 피씨와 핸드폰에서 접근  새로운 지식 관리의 세상을 SynapBook와 함께 체험하세요!</description>

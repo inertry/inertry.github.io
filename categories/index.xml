@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Inertry</title>
-    <link>https://inertry.github.io/categories/</link>
+    <link>https://blog.inertry.com/categories/</link>
     <description>Recent content in Categories on Inertry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://inertry.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.inertry.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Release</title>
-      <link>https://inertry.github.io/categories/release/</link>
-      <pubDate>Tue, 19 Mar 2019 22:42:20 +0900</pubDate>
+      <link>https://blog.inertry.com/categories/release/</link>
+      <pubDate>Mon, 19 Mar 2018 22:42:20 +0900</pubDate>
       
-      <guid>https://inertry.github.io/categories/release/</guid>
+      <guid>https://blog.inertry.com/categories/release/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synapbook</title>
-      <link>https://inertry.github.io/categories/synapbook/</link>
-      <pubDate>Tue, 19 Mar 2019 22:42:20 +0900</pubDate>
+      <link>https://blog.inertry.com/categories/synapbook/</link>
+      <pubDate>Sun, 01 Apr 2018 03:49:10 +0900</pubDate>
       
-      <guid>https://inertry.github.io/categories/synapbook/</guid>
+      <guid>https://blog.inertry.com/categories/synapbook/</guid>
       <description></description>
     </item>
     

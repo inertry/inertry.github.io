@@ -3,150 +3,165 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://inertry.github.io/page/synapbook/</loc>
+    <loc>https://blog.inertry.com/page/synapbook/</loc>
     <lastmod>2019-03-20T13:18:45+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/page/synapbook/"
+                href="https://blog.inertry.com/kr/page/synapbook/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/page/synapbook/"
+                href="https://blog.inertry.com/page/synapbook/"
                 />
   </url>
   
   <url>
-    <loc>https://inertry.github.io/article/2018-03-19-v1.2.0-popup-memo-released-like-windows-sticky-notes/</loc>
-    <lastmod>2019-03-19T22:42:20+09:00</lastmod>
+    <loc>https://blog.inertry.com/article/2018-05-15-change-text-color-in-sticky-notes-window-synapbook/</loc>
+    <lastmod>2018-05-15T04:27:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/article/2018-04-01-the-google-keep-and-evernote-replacement-synapbook/</loc>
+    <loc>https://blog.inertry.com/article/2018-05-14-insert-checkbox-into-sticky-notes-window-synapbook/</loc>
+    <lastmod>2018-05-14T04:25:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inertry.com/article/2018-04-01-sticky-notes-for-cloud-version-synapbook/</loc>
+    <lastmod>2018-04-01T04:17:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inertry.com/article/2018-04-01-the-google-keep-and-evernote-replacement-synapbook/</loc>
     <lastmod>2018-04-01T04:08:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/article/2018-04-01-google-keep-vs-synapbook-which-is-king-of-simple-note-taking/</loc>
+    <loc>https://blog.inertry.com/article/2018-04-01-google-keep-vs-synapbook-which-is-king-of-simple-note-taking/</loc>
     <lastmod>2018-04-01T03:49:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/article/2018-03-03-comparison-of-evernote-and-synapbook/</loc>
+    <loc>https://blog.inertry.com/article/2018-03-19-v1.2.0-popup-memo-released-like-windows-sticky-notes/</loc>
+    <lastmod>2018-03-19T22:42:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.inertry.com/article/2018-03-03-comparison-of-evernote-and-synapbook/</loc>
     <lastmod>2018-03-03T23:57:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/article/2018-02-18-official-synapbook-v1.0-released/</loc>
+    <loc>https://blog.inertry.com/article/2018-02-18-official-synapbook-v1.0-released/</loc>
     <lastmod>2018-02-14T04:15:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/article/</loc>
-    <lastmod>2019-03-19T22:42:20+09:00</lastmod>
+    <loc>https://blog.inertry.com/article/</loc>
+    <lastmod>2018-05-15T04:27:41+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/author/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="https://inertry.github.io/kr/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://inertry.github.io/author/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://inertry.github.io/categories/</loc>
+    <loc>https://blog.inertry.com/author/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/categories/"
+                href="https://blog.inertry.com/kr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/categories/"
+                href="https://blog.inertry.com/author/"
                 />
   </url>
   
   <url>
-    <loc>https://inertry.github.io/</loc>
+    <loc>https://blog.inertry.com/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="https://blog.inertry.com/kr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.inertry.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.inertry.com/</loc>
     <lastmod>2019-03-20T13:18:45+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/"
+                href="https://blog.inertry.com/kr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/"
+                href="https://blog.inertry.com/"
                 />
   </url>
   
   <url>
-    <loc>https://inertry.github.io/page/</loc>
+    <loc>https://blog.inertry.com/page/</loc>
     <lastmod>2019-03-20T13:18:45+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/page/"
+                href="https://blog.inertry.com/kr/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/page/"
+                href="https://blog.inertry.com/page/"
                 />
   </url>
   
   <url>
-    <loc>https://inertry.github.io/tags/release/</loc>
-    <lastmod>2019-03-19T22:42:20+09:00</lastmod>
+    <loc>https://blog.inertry.com/tags/release/</loc>
+    <lastmod>2018-03-19T22:42:20+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/categories/release/</loc>
-    <lastmod>2019-03-19T22:42:20+09:00</lastmod>
+    <loc>https://blog.inertry.com/categories/release/</loc>
+    <lastmod>2018-03-19T22:42:20+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/tags/synapbook/</loc>
-    <lastmod>2019-03-19T22:42:20+09:00</lastmod>
+    <loc>https://blog.inertry.com/tags/synapbook/</loc>
+    <lastmod>2018-04-01T03:49:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/categories/synapbook/</loc>
-    <lastmod>2019-03-19T22:42:20+09:00</lastmod>
+    <loc>https://blog.inertry.com/categories/synapbook/</loc>
+    <lastmod>2018-04-01T03:49:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inertry.github.io/tags/</loc>
-    <lastmod>2019-03-19T22:42:20+09:00</lastmod>
+    <loc>https://blog.inertry.com/tags/</loc>
+    <lastmod>2018-03-19T22:42:20+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="kr"
-                href="https://inertry.github.io/kr/tags/"
+                href="https://blog.inertry.com/kr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://inertry.github.io/tags/"
+                href="https://blog.inertry.com/tags/"
                 />
   </url>
   

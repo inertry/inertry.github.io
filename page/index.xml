@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Inertry</title>
-    <link>https://inertry.github.io/page/</link>
+    <link>https://blog.inertry.com/page/</link>
     <description>Recent content in Pages on Inertry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Mar 2019 13:18:45 +0900</lastBuildDate>
     
-	<atom:link href="https://inertry.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.inertry.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SynapBook</title>
-      <link>https://inertry.github.io/page/synapbook/</link>
+      <link>https://blog.inertry.com/page/synapbook/</link>
       <pubDate>Wed, 20 Mar 2019 13:18:45 +0900</pubDate>
       
-      <guid>https://inertry.github.io/page/synapbook/</guid>
+      <guid>https://blog.inertry.com/page/synapbook/</guid>
       <description>Organize your thoughts systematically and conveniently with tree-structured memo on SynapBook!
 SynapBook is the best tool for organizing your knowledge.
- Tree Structure Notes Accessing Mr. Pee and his cell phone.  Experience the new world of knowledge management with SynapBook</description>
+ Tree Structure Notes Accessing the notes from your PC and cell phone.  Experience the new world of knowledge management with SynapBook</description>
     </item>
     
   </channel>
